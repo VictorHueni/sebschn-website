@@ -1,0 +1,20 @@
+# humanstxt.org/
+# The humans responsible & technology colophon
+
+# TEAM
+
+    Chef:Victor Hüni
+	Contact: victor.hueni@protonmail.com
+	Twitter: NONE
+	From:Geneva, GE, Switzerland
+
+# THANKS
+
+    (First) Artist: Sébastien Schnyder
+	Twitter: 
+	From:Geneva, GE, Switzerland 
+
+# TECHNOLOGY COLOPHON
+
+    CSS3, HTML5
+    Apache Server Configs, jQuery, Modernizr, Normalize.css, Bootstrap 4.5.2
